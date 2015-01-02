@@ -1,0 +1,7 @@
+package com.zavier.zavmod;
+
+import net.minecraft.block.Block;
+
+public class BlockRubyOre extends Block {
+
+}
